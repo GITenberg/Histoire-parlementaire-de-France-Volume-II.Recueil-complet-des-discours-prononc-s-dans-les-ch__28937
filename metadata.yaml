@@ -1,0 +1,35 @@
+_repo: Histoire-parlementaire-de-France-Volume-II.Recueil-complet-des-discours-prononc-s-dans-les-ch__28937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, M. (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guizot, Francois Pierre Guillaume
+    - Guisot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28937'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+- !lcc 'DC'
+title: "Histoire parlementaire de France, Volume 2.\r\nRecueil complet des discours\
+  \ prononcés dans les chambres de 1819 à 1848"
+url: http://www.gutenberg.org/ebooks/28937
